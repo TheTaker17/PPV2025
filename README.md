@@ -1,5 +1,5 @@
-# PPV2025
-Programación Para Videojuegos
+# Tiburones Innovadores
+Este equipo esta compuesto por los siguientes integrantes
 
 ## Santiago Bejarano
 
