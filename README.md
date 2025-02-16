@@ -7,3 +7,10 @@ Este equipo esta compuesto por los siguientes integrantes
 
 ** Rol Elegido: Artista de Personajes 3D**
 Ubicación: Bogotá. Tengo conocimientos en desarrollo Front End, Diseño Grafico, animación 2D y modelado 3D
+
+## Julián Metke
+
+<img src="C:\Users\Usuario\OneDrive - Universidad Nacional Abierta y a Distancia\UNAD\8VO Semestre\Programación para Videojuegos\PPV2025\Recursos\Imágenes\Imagen Personal" witdh ="100">
+
+** Rol Elegido: Game Artist **
+Ubicación: Bogotá. Poseo conocimientos sobre diseño gráfico, desarrollo frontend e ilustración. 
