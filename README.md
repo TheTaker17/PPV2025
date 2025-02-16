@@ -14,3 +14,11 @@ Ubicación: Bogotá. Tengo conocimientos en desarrollo Front End, Diseño Grafic
 
 ** Rol Elegido: Game Artist **
 Ubicación: Bogotá. Poseo conocimientos sobre diseño gráfico, desarrollo frontend e ilustración. 
+
+## Giovanni Marín
+
+<img>
+
+** Rol Elegido: Programador de Juegos **
+** Ubicación: ** Bogotá  
+** Perfil: ** Conocimientos en desarrollo web (HTML/CSS), producción de audio (fmod for Unity), programación (C#) 
