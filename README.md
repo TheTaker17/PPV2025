@@ -10,7 +10,7 @@ Ubicación: Bogotá. Tengo conocimientos en desarrollo Front End, Diseño Grafic
 
 ## Julián Metke
 
-<img src="C:\Users\Usuario\OneDrive - Universidad Nacional Abierta y a Distancia\UNAD\8VO Semestre\Programación para Videojuegos\PPV2025\Recursos\Imágenes\Imagen Personal" witdh ="100">
+<img src="https://github.com/TheTaker17/PPV2025/blob/6633dad6a189ce16837912ab49aa89f26b4cf0f9/Imgaen%20Personal.jpeg" witdh ="100">
 
 ** Rol Elegido: Game Artist **
 Ubicación: Bogotá. Poseo conocimientos sobre diseño gráfico, desarrollo frontend e ilustración. 
