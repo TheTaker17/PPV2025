@@ -19,6 +19,6 @@ Ubicación: Bogotá. Poseo conocimientos sobre diseño gráfico, desarrollo fron
 
 <img>
 
-**Rol Elegido: Programador de Juegos**
+**Rol Elegido: Programador de Juegos**    
 **Ubicación:** Bogotá    
 **Perfil:** Conocimientos en desarrollo web (HTML/CSS), producción de audio (fmod for Unity), programación (C#)    
