@@ -17,7 +17,7 @@ Ubicación: Bogotá. Poseo conocimientos sobre diseño gráfico, desarrollo fron
 
 ## Giovanni Marín
 
-![Foto Giovanni Marin!](ResoursesGM/FotoGiovanni.jpeg)
+<img src="ResoursesGM/FotoGiovanni.jpeg" width="150">
 
 **Rol Elegido:** Programador de Juegos       
 **Ubicación:** Bogotá    
